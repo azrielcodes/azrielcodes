@@ -1,10 +1,45 @@
-- 👋 Hi, I’m @azrielcodes
-- 👀 I’m aspiring to be a freelance FrontEnd devoloper, Python and Javascript programmer
-- 🌱 I’m currently studying in Singapore Polytechnic as a year 1 student
-- 💞️ I’m looking for FrontEnd, Python and javascript projects to do
-- 📫 Email me at azrielcodes@gmail.com should you require my services
+# Azriel Codes - Freelance FrontEnd Developer
 
-<!---
-azrielcodes/azrielcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to Azriel Codes! I am a passionate and self-taught FrontEnd Developer with expertise in Python and JavaScript. Whether you're looking for someone to handle your school projects, work projects, or need assistance with FrontEnd design for websites, I've got you covered. Below is a brief overview of my skills, certifications, and the services I offer.
+
+## Skills
+
+- **Python:**
+  - Self-taught Python developer with certifications from Udemy courses.
+    - [Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
+    - [Intermediate Python Immersive Training | Boost your career](https://www.udemy.com/course/the-intermediate-python-training-boost-your-python-skills/)
+    - [Advanced Python for Data Analysis](https://www.udemy.com/course/advanced-python-for-data-analysis/)
+
+  - Gained proficiency in socket programming, SQLite, and NumPy.
+
+- **FrontEnd Development:**
+  - Proficient in HTML, CSS, and JavaScript.
+  - Extensive experience working on school projects, demonstrating creativity and attention to detail in FrontEnd design.
+
+## Education
+
+I am currently a year 1 student at Singapore Polytechnic, actively working towards my dream of becoming a successful freelance developer. My dedication to learning and practical application sets me apart in delivering high-quality solutions.
+
+## Services Offered
+
+- **School Projects:**
+  - Assistance with coding and implementation for various programming languages, including Python, HTML, CSS, and JavaScript.
+
+- **Work Projects:**
+  - Professional and reliable support for your work-related programming needs.
+
+- **FrontEnd Design:**
+  - Creative and user-friendly design solutions for websites.
+
+- **Tutoring:**
+  - Personalized tutoring sessions to help you grasp programming concepts and improve your skills.
+
+## Contact
+
+For more information or to discuss potential projects, feel free to reach out to me:
+
+- **Email:** [azrielcodes@gmail.com](mailto:azrielcodes@gmail.com)
+
+I am enthusiastic about collaborating on exciting projects and helping you achieve your goals. Let's turn your ideas into reality together!
+
+Thank you for considering Azriel Codes for your development needs.
