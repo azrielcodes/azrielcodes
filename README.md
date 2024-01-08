@@ -45,7 +45,7 @@ I am currently a year 1 student at Singapore Polytechnic, actively working towar
   - Creative and user-friendly design solutions for websites.
 
 - **Tutoring:**
-  - Personalized tutoring sessions to help you grasp programming concepts, improve your skills, and excel in Linux-related topics.
+  - Personalized tutoring sessions to help you grasp programming concepts.
 
 ## Contact
 
