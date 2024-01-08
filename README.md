@@ -9,7 +9,9 @@ Welcome to Azriel Codes! I am a passionate and self-taught FrontEnd Developer wi
     - [Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
     - [Intermediate Python Immersive Training | Boost your career](https://www.udemy.com/course/the-intermediate-python-training-boost-your-python-skills/)
     - [Advanced Python for Data Analysis](https://www.udemy.com/course/advanced-python-for-data-analysis/)
-  - Gained proficiency in socket programming, SQLite, and NumPy.
+    - [Python for Unreal Engine Editor Tools Scripting](https://www.udemy.com/course/ue4python/)
+      
+  - Gained proficiency in socket programming, SQLite, NumPy and scripting Unreal Engine Editor Tools.
 
 - **Linux:**
   - Certifications in Linux from Udemy courses.
