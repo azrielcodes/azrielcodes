@@ -51,6 +51,10 @@ I am currently a year 1 student at Singapore Polytechnic, actively working towar
 
 ## Contact
 
+To indicate your interest in my service, fill up this form:
+
+- [Interest form](https://forms.gle/cCHC8CxXJGAW67iC8)
+
 For more information or to discuss potential projects, feel free to reach out to me:
 
 - **Email:** [azrielcodes@gmail.com](mailto:azrielcodes@gmail.com)
